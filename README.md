@@ -1,2 +1,2 @@
-# my1strepo
+# My 1st Repo
 CALCULATOR
